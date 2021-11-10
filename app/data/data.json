@@ -1,0 +1,189 @@
+[
+	{
+		"id": "el1",
+		"name": "Mask for the Chicago Mafia",
+		"img": "./images/product-1.jpg",
+		"price": 1300,
+		"category": "Masks",
+		"filter":"favorites"
+	},
+	{
+		"id": "el2",
+		"name": "Numbers for the game mafia 'Sicily' ",
+		"img": "./images/product.jpg",
+		"price": 1500,
+		"category": "Masks",
+		"filter":"sale"
+	},
+	{
+		"id": "el3",
+		"name": "Numbers for the game mafia 'Chicago' ",
+		"img": "./images/product-5.jpg",
+		"price": 1700,
+		"category": "Masks",
+		"filter":"favorites"
+	},
+	{
+		"id": "el4",
+		"name": "Numbers for the game mafia 'Chicago'",
+		"img": "./images/product-3.jpg",
+		"price": 1900,
+		"category": "Numbers",
+		"filter":"sale"
+	},
+	{
+		"id": "el5",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-5.jpg",
+		"price": 1000,
+		"category": "Numbers",
+		"filter":"sale"
+	},
+	{
+		"id": "el6",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product.jpg",
+		"price": 1000,
+		"category": "Numbers"
+	},
+	{
+		"id": "el7",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-3.jpg",
+		"price": 1000,
+		"category": "Numbers"
+	},
+	{
+		"id": "el8",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product.jpg",
+		"price": 1000,
+		"category": "Mafia kits",
+		"filter":"favorites"
+	},
+	{
+		"id": "el9",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-5.jpg",
+		"price": 1000,
+		"category": "Mafia kits",
+		"filter":"sale"
+	},
+	{
+		"id": "el10",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product.jpg",
+		"price": 1000,
+		"category": "Mafia kits",
+		"filter":"sale"
+	},
+	{
+		"id": "el11",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-5.jpg",
+		"price": 1000,
+		"category": "Mafia kits",
+		"filter":"favorites"
+	},
+	{
+		"id": "el12",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-1.jpg",
+		"price": 1000,
+		"category": "Mafia kits",
+		"filter":"favorites"
+	},
+	{
+		"id": "el13",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-1.jpg",
+		"price": 1000,
+		"category": "Nameplates"
+	},
+	{
+		"id": "el14",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-5.jpg",
+		"price": 1000,
+		"category": "Nameplates",
+		"filter":"sale"
+	},
+	{
+		"id": "el15",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-3.jpg",
+		"price": 1000,
+		"category": "Nameplates",
+		"filter":"new"
+	},
+	{
+		"id": "el16",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-3.jpg",
+		"price": 1000,
+		"category": "Nameplates"
+	},
+	{
+		"id": "el17",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-1.jpg",
+		"price": 1000,
+		"category": "Nameplates",
+		"filter":"new"
+	},
+	{
+		"id": "el18",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-5.jpg",
+		"price": 1000,
+		"category": "Souvenirs"
+	},{
+		"id": "el19",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product.jpg",
+		"price": 1000,
+		"category": "Souvenirs",
+		"filter":"favorites"
+	},{
+		"id": "el20",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-3.jpg",
+		"price": 1000,
+		"category": "Souvenirs",
+		"filter":"favorites"
+	},{
+		"id": "el21",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product.jpg",
+		"price": 1000,
+		"category": "Souvenirs",
+		"filter":"new"
+	},{
+		"id": "el22",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-1.jpg",
+		"price": 1000,
+		"category": "Souvenirs"
+	},{
+		"id": "el23",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-3.jpg",
+		"price": 1000,
+		"category": "Souvenirs",
+		"filter":"new"
+	},{
+		"id": "el24",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-5.jpg",
+		"price": 1000,
+		"category": "Souvenirs",
+		"filter":"favorites"
+	},{
+		"id": "el25",
+		"name": "Round tablecloth for the mafia 'Sicily'",
+		"img": "./images/product-1.jpg",
+		"price": 1000,
+		"category": "Souvenirs",
+		"filter":"new"
+	}
+]
